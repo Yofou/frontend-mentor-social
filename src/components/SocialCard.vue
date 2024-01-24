@@ -3,7 +3,7 @@
     <img class="w-[5.5rem] h-[5.5rem] rounded-full object-cover" src="/profile.avif" alt=""> 
     
     <div class="flex flex-col gap-1 items-center text-center">
-      <h2 class="heading text-white">Jessica Randall</h2>
+      <h2 class="heading text-white font-semibold">Jessica Randall</h2>
       <p class="body font-bold text-neon-green">London, United Kingdom</p>
     </div>
 
